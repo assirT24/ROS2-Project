@@ -67,12 +67,12 @@ The following flowchart shows the interaction between ROS 2 nodes, topics, TF fr
 ---
 
 ### 🔹 TF Frames Visualization in RViz
-![TF Frames](images/tf_frames.png)
+![TF Frames](https://github.com/assirT24/ROS2-Project/blob/74510fe788e0d79a456e09cd2b109af1050d0aa0/1766170180857.jpg)
 
 ---
 
 ### 🔹 Manipulator Interaction with Environment
-![Manipulator Interaction](images/gazebo_view_2.png)
+![Manipulator Interaction](https://github.com/assirT24/ROS2-Project/blob/553aa52a8ab23792e52c8db4cdc421adc7375c38/1766170180911%20(1).jpg)
 
 ---
 
