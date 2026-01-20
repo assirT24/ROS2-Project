@@ -83,3 +83,10 @@ The following flowchart shows the interaction between ROS 2 nodes, topics, TF fr
 git clone https://github.com/assirT24/ROS2-Project.git
 cd ROS2-Project
 
+### 2️⃣ Build the ROS 2 workspace
+```bash
+colcon build
+source install/setup.bash
+### 3️⃣ Launch the simulation
+```bash
+ros2 launch ros2_car gazebo.launch.py
