@@ -94,3 +94,31 @@ source install/setup.bash
 ```bash
 ros2 launch ros2_car gazebo.launch.py
 ```
+## 📚 Learning Outcomes
+
+- Practical understanding of **ROS 2 node-based architecture**
+- Working with **TF trees and coordinate transformations**
+- Robot modeling using **URDF**
+- Debugging robots in **Gazebo & RViz**
+- Applying **GitHub version control** in robotics projects
+
+---
+
+## 🔮 Future Enhancements
+
+- Inverse kinematics for the manipulator
+- Autonomous navigation using **Nav2**
+- Perception integration using camera or **LiDAR**
+- Multi-joint robotic arm
+- Real hardware deployment
+
+---
+
+## 👤 Author
+
+**Assir Thota**  
+B.Tech – Electronics and Communication (Rail Engineering)  
+Gati Shakti Vishwavidyalaya, Vadodara  
+
+- GitHub: https://github.com/assirT24  
+- LinkedIn: https://www.linkedin.com/in/assir-thota-10213a288/
