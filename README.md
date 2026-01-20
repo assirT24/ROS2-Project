@@ -55,7 +55,7 @@ The project follows a standard ROS 2 communication pipeline using:
 
 The following flowchart shows the interaction between ROS 2 nodes, topics, TF frames, and the Gazebo simulation environment:
 
-![ROS2 Flowchart](images/ros2_flowchart.png)
+![ROS2 Flowchart]([images/ros2_flowchart.png](https://github.com/assirT24/ROS2-Project/blob/505a51fc136f0a238cec8d4bf2a99ced62667022/1766170181860.jpg))
 
 ---
 
